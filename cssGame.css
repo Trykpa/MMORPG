@@ -1,0 +1,24 @@
+body{
+	background-color: #deb887;
+}
+
+#menu{
+  position: sticky;
+  z-index: 2;
+  top: 0;
+}
+#menu button{
+	font-size: 70px;
+	width: 24.8%;
+	height: 9.5%;
+
+
+}
+
+#misje{
+	text-align: center;
+}
+
+#ranking{
+	text-align: center;
+}
